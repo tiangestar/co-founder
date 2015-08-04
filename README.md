@@ -12,6 +12,7 @@ Welcome Aboard! Co-founder of http://1.qinghuai.org
 
 Github | Favorite
 ---             | --- 
-[tvvocold](https://github.com/tvvocold) | [meta](http://1.qinghuai.org/t/meta)
-[1dot75cm](https://github.com/1dot75cm) | [fedora](http://1.qinghuai.org/t/fedora)
-[endle](https://github.com/Endle) | [c](http://1.qinghuai.org/t/c)
+[tiangestar](https://github.com/tiangestar) | [bigdata](https://github.com/tiangestar/awesome-bigdata)
+[tiangestar](https://github.com/tiangestar) | [node](https://github.com/tiangestar/node)
+[tiangestar](https://github.com/tiangestar) | [crawler](https://github.com/tiangestar/byr-crawler)
+
